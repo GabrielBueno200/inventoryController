@@ -9,7 +9,7 @@ O projeto tem o intuito de simular um controlador de estoque, em que o usuário 
 # Tela Inicial
 Já foram implementadas as funções para filtrar produtos (cores alternadas na tabela):
 
-| First Header         | Second Header |
+| Quantidade           |     Cor       |
 | -------------------- | ------------- |
 | 0 < Quantidade <= 5  |   Vermelha    |
 | 5 < Quantidade <= 20 |    Amarela    |

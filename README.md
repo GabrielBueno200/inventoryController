@@ -1,12 +1,12 @@
 O projeto tem o intuito de simular um controlador de estoque, em que o usuário cria a sua conta e passa a inserir a entrada e saída de produtos
 
-#Tela de cadastro - Finalizada
+# Tela de cadastro - Finalizada
 ![print2](https://user-images.githubusercontent.com/56837996/90291368-21922100-de56-11ea-8942-d22bc5983bba.png)
 
-#Tela de login - Finalizada
+# Tela de login - Finalizada
 ![print1](https://user-images.githubusercontent.com/56837996/90291260-e859b100-de55-11ea-8828-35e96530c0b6.png)
 
-#Tela Inicial
+# Tela Inicial
 Já foram implementadas as funções para filtrar produtos (cores alternadas na tabela):
 
 0 < Quantidade <= 5  -> Cor Vermelha  

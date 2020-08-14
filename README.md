@@ -1,4 +1,3 @@
-*Este projeto ainda está em desenvolvimento*
 O projeto tem o intuito de simular um controlador de estoque, em que o usuário cria a sua conta e passa a inserir a entrada e saída de produtos
 
 ##Tela de cadastro - Finalizada

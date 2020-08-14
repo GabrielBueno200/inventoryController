@@ -12,7 +12,7 @@ Para executar o projeto é necessária a instalação do driver JDBC do MySQL, p
 # Tela de login - Finalizada
 ![print1](https://user-images.githubusercontent.com/56837996/90291260-e859b100-de55-11ea-8828-35e96530c0b6.png)
 
-# Tela Inicial
+# Tela Inicial - em desenvolvimento
 - Já foram implementadas as funções para filtrar produtos (cores alternadas na tabela do programa):
 
 | Quantidade           |     Cor       |
@@ -25,7 +25,7 @@ Para executar o projeto é necessária a instalação do driver JDBC do MySQL, p
 
 ![print3](https://user-images.githubusercontent.com/56837996/90291450-5605dd00-de56-11ea-9d37-5d7664ff9ad5.png)
 
-# Entrada e saída de produtos (quase finalizado)
+# Entrada e saída de produtos - em desenvolvimento)
 O usuário cadastra as entradas e saídas do produto selecionado na tabela
 ![print4](https://user-images.githubusercontent.com/56837996/90292802-01b02c80-de59-11ea-9e4d-725e225cae88.png)
 

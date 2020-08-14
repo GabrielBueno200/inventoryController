@@ -1,5 +1,7 @@
 O projeto tem o intuito de simular um controlador de estoque, em que o usuário cria a sua conta e passa a inserir a entrada e saída de produtos.  
-**Este projeto ainda está em desenvolvimento, o intuito é finalizar toda a camada Controller/Model e depois retocar as Views, aprimorando o visual**
+
+  
+**Obs: Este projeto ainda está em desenvolvimento, o intuito é finalizar toda a camada Controller/Model e depois retocar as Views, aprimorando o visual**
 
 # Execução
 Para executar o projeto é necessária a instalação do driver JDBC do MySQL, para a conexão com o banco de dados
